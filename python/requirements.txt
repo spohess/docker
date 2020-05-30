@@ -4,3 +4,4 @@ djangorestframework==3.11.0
 Markdown==3.2.2
 mysqlclient==1.4.6
 pytz==2018.3
+virtualenv==20.0.21
